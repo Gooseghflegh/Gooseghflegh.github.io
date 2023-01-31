@@ -1,5 +1,5 @@
 body {
-  background-image: url('C:\Users\Goose\Documents\GitHub\Gooseghflegh.github.io\assets\images\background.jpg');
+  background-image: url('./images/background.png');
   background-size: cover;
   background-repeat: no-repeat;
   font-family: Arial, sans-serif;
